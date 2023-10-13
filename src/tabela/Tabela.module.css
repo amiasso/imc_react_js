@@ -1,0 +1,56 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 10px;
+}
+
+body {
+    background-color: blueviolet;
+}
+
+.peso {
+    color: red;
+    margin-right: 10px;
+}
+
+.entrada {
+    margin-left: 10px;
+    color: aqua;
+    background-color: black;
+}
+
+.autura {
+    color: green;
+}
+
+.alt {
+    margin-left: 10px;
+    color: aqua;
+    background-color: black;
+}
+
+.calcular {
+    color: #8B4513;
+    background-color: #4B0082;
+    text-transform: uppercase;
+    padding-bottom: 10px;
+    width: 100px;
+    border-radius: 50px;
+}
+
+.resultado {
+    color: aliceblue;
+}
+
+.table {
+    margin-left: 10px 100px 0 0;
+    background:rgba(106,90,205);
+    border:10px solid #000;
+    border-collapse: collapse;
+   width: 450px;
+   height: 450px;
+}
