@@ -1,6 +1,6 @@
 import styles from './Tabela.module.css';
 
-export default function Peso(props){
+export default function Altura(props){
     return(
     <div>
       <label className={styles.autura}>
